@@ -12,3 +12,10 @@ org  100h
         Text db "COM program works", 10, 13, '$'
     
     end Main
+
+
+
+
+
+
+
